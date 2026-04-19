@@ -36,6 +36,13 @@ Conversion trends over time
 
 ## Marketing Effectiveness — Key Findings
 
+### Channel Efficiency vs Volume
+![Channel Efficiency vs Volume](Visuals/Channel_Efficiency_vs_Volume.png)
+
+### Lead Generation & Conversion Funnel
+![Lead Generation Conversion](Visuals/Lead_Generation_Conversion.png)
+
+
 * Organic Search & Paid Search = main growth engines
 * Highest volume + strong conversion performance.
 * Unknown channel has the highest conversion rate
@@ -46,6 +53,10 @@ Conversion trends over time
 * Good exposure but weaker conversion efficiency.
 
 ## Time Trend Analysis — Key Findings
+
+### Marketing Channel Performance
+![Marketing Channel Performance](Visuals/Marketing_Channel_Performance.png)
+
 * January 2018 was a turning point
 * Leads, conversions and conversion rate increased significantly.
 * All channels grew simultaneously
@@ -55,6 +66,12 @@ Conversion trends over time
 
 
 ## Business Segment Insights
+
+### Seller Distribution by Lead Type
+![Seller Distribution by Lead Type](Visuals/Seller_Distribution_by_Lead_Type.png)
+
+### Top Business Segments
+![Top Business Segments](Visuals/Top_Business_Segments.png)
 
 * Core seller industries:
 
