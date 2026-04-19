@@ -39,8 +39,9 @@ Conversion trends over time
 ### Channel Efficiency vs Volume
 ![Channel Efficiency vs Volume](Visuals/Channel_Efficiency_vs_Volume.png)
 
-### Lead Generation & Conversion Funnel
-![Lead Generation Conversion](Visuals/Lead_Generation_Conversion.png)
+
+### Marketing Channel Performance
+![Marketing Channel Performance](Visuals/Marketing_Channel_Performance.png)
 
 
 * Organic Search & Paid Search = main growth engines
@@ -54,8 +55,8 @@ Conversion trends over time
 
 ## Time Trend Analysis — Key Findings
 
-### Marketing Channel Performance
-![Marketing Channel Performance](Visuals/Marketing_Channel_Performance.png)
+### Lead Generation & Conversion Funnel
+![Lead Generation Conversion](Visuals/Lead_Generation_Conversion.png)
 
 * January 2018 was a turning point
 * Leads, conversions and conversion rate increased significantly.
