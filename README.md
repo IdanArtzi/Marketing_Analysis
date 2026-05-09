@@ -1,6 +1,6 @@
 # Marketing_Analysis
 Analyzing Marketing Channels Efficiency Using Python
-
+Dashboard creation using Power BI 
 
 
 ## Executive Summary
@@ -33,15 +33,14 @@ Conversion trends over time
 * Overall Conversion Rate **10.53%** 
 * Leads Needed per Seller **9.5** 
 
-
 ## Marketing Effectiveness — Key Findings
 
 ### Channel Efficiency vs Volume
-![Channel Efficiency vs Volume](Visuals/Channel_Efficiency_vs_Volume.png)
+![Channel Efficiency vs Volume](Visuals/PowerBI_Exec.png)
 
 
 ### Marketing Channel Performance
-![Marketing Channel Performance](Visuals/Marketing_Channel_Performance.png)
+![Marketing Channel Performance](Visuals/PowerBI_TimeTrend.png)
 
 
 * Organic Search & Paid Search = main growth engines
@@ -56,7 +55,7 @@ Conversion trends over time
 ## Time Trend Analysis — Key Findings
 
 ### Lead Generation & Conversion Funnel
-![Lead Generation Conversion](Visuals/Lead_Generation_Conversion.png)
+![Lead Generation Conversion](Visuals/PowerBI_TimeTrend.png)
 
 * January 2018 was a turning point
 * Leads, conversions and conversion rate increased significantly.
