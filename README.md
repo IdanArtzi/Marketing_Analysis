@@ -36,11 +36,11 @@ Conversion trends over time
 ## Marketing Effectiveness — Key Findings
 
 ### Channel Efficiency vs Volume
-![Channel Efficiency vs Volume](Visuals/PowerBI_Exec.png)
+![Channel Efficiency vs Volume](Visuals/PB_efficiency_vs_vol.png)
 
 
 ### Marketing Channel Performance
-![Marketing Channel Performance](Visuals/PowerBI_TimeTrend.png)
+![Marketing Channel Performance](Visuals/PB_Monthly_ConvRate.png)
 
 
 * Organic Search & Paid Search = main growth engines
@@ -53,9 +53,10 @@ Conversion trends over time
 * Good exposure but weaker conversion efficiency.
 
 ## Time Trend Analysis — Key Findings
+![Time Trend Analysis](Visuals/PowerBI_TimeTrend.png)
 
 ### Lead Generation & Conversion Funnel
-![Lead Generation Conversion](Visuals/PowerBI_TimeTrend.png)
+![Lead Generation Conversion](Visuals/PB_LeadSourceConv.png)
 
 * January 2018 was a turning point
 * Leads, conversions and conversion rate increased significantly.
@@ -65,7 +66,8 @@ Conversion trends over time
 * Likely holiday season effect.
 
 
-## Business Segment Insights
+## Client's Profile and Insights
+![lient's Profile and Insights](Visuals/PowerBI_Clients&Insights.png)
 
 ### Seller Distribution by Lead Type
 ![Seller Distribution by Lead Type](Visuals/Seller_Distribution_by_Lead_Type.png)
